@@ -1,0 +1,116 @@
+{
+  "questions": [
+    {
+      "question": "لقد وصلت إلى منزل السيد والسيدة آدامز. ماذا ستفعل أولاً؟",
+      "choice_1": "تبحث عن مفتاح في الحديقة.",
+      "choice_2": "تدخل المنزل مباشرةً.",
+      "choice_3": "تتصل بالشرطة.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "دخلت المنزل. ماذا ستفعل بعد ذلك؟",
+      "choice_1": "تصعد إلى الطابق العلوي.",
+      "choice_2": "تبحث في الغرفة الأولى على اليمين.",
+      "choice_3": "تعود للخارج.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "وجدت صندوقًا مغلقًا. كيف ستفتحه؟",
+      "choice_1": "تكسره بمطرقة وجدتها.",
+      "choice_2": "تبحث عن المفتاح.",
+      "choice_3": "تتركه وتواصل البحث.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "سمعت صوتًا قادمًا من الطابق العلوي. ماذا ستفعل؟",
+      "choice_1": "تتجاهل الصوت وتواصل البحث.",
+      "choice_2": "تصعد للطابق العلوي لاستكشافه.",
+      "choice_3": "تختبئ في مكان آمن.",
+      "correct_answer": 3,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "وجدت مخرجًا خلفيًا. هل ستخرج الآن؟",
+      "choice_1": "نعم، تهرب فورًا.",
+      "choice_2": "لا، تبحث عن دليل إضافي.",
+      "choice_3": "تحاول إشعال إنذار الحريق.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "واجهت السيد آدامز. ماذا ستفعل؟",
+      "choice_1": "تحاول التحدث معه.",
+      "choice_2": "تهرب بسرعة.",
+      "choice_3": "تبحث عن سلاح للدفاع.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "وجدت مخرجًا يؤدي إلى الغابة. كيف ستتحرك؟",
+      "choice_1": "تدخل الغابة بهدوء.",
+      "choice_2": "تركض بأقصى سرعة.",
+      "choice_3": "تعود للمنزل.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "في الغابة، وجدت خريطة. ماذا ستفعل؟",
+      "choice_1": "تتبع الخريطة للخروج.",
+      "choice_2": "تبحث عن مكان للاختباء.",
+      "choice_3": "تتجاهل الخريطة وتواصل السير.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "واجهت كلاب حراسة. ماذا ستفعل؟",
+      "choice_1": "ترمي قطعة لحم لتشتيتهم.",
+      "choice_2": "تركض بسرعة.",
+      "choice_3": "تتسلق شجرة.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "أخيرًا، وصلت للطريق الرئيسي. ماذا ستفعل؟",
+      "choice_1": "تطلب المساعدة من سيارة مارة.",
+      "choice_2": "تختبئ وتنتظر حتى يهدأ الوضع.",
+      "choice_3": "تركض على طول الطريق.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "بينما كنت تركض، تعرضت للإصابة. ماذا ستفعل؟",
+      "choice_1": "توقف لتضميد الجرح.",
+      "choice_2": "تستمر في الركض رغم الألم.",
+      "choice_3": "تبحث عن مكان للاختباء.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "لاحظت وجود شخص غريب في الطريق. ماذا ستفعل؟",
+      "choice_1": "تقترب منه وتطلب المساعدة.",
+      "choice_2": "تبتعد بهدوء لتجنب المشاكل.",
+      "choice_3": "تهجم عليه للحصول على معلومات.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "أثناء هروبك، فقدت الخريطة. كيف ستواصل؟",
+      "choice_1": "تبحث عن خريطة أخرى في المنطقة.",
+      "choice_2": "تتبع الحظ وتعتمد على معرفتك بالمنطقة.",
+      "choice_3": "ترجع إلى المنزل لتستعيد الخريطة.",
+      "correct_answer": 2,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    },
+    {
+      "question": "وصلت إلى نقطة توقف في الغابة. ماذا ستفعل؟",
+      "choice_1": "تستريح لبضع دقائق.",
+      "choice_2": "تواصل السير دون توقف.",
+      "choice_3": "تبحث عن مأوى لتختبئ فيه.",
+      "correct_answer": 1,
+      "image_url": "https://i.ibb.co/zRm8mzR/blob.jpg"
+    }
+  ]
+}
